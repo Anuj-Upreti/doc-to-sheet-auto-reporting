@@ -55,10 +55,9 @@ Today I worked on the new homepage copy and revised two blogs...
 - **Row 1 (starting from Column C)**: Dates to track
 
 #### ⚙️ Script Configuration:
+You can customize where the script begins reading by changing this setting:
+```js startCell: "C2" ```
 
-- You can customize where the script begins reading by changing this setting:
-```js
-startCell: "C2"
 🧠 Notes
 ✅ Word Count Includes the Date Heading
 If a writer adds June 1, 2025 as the heading, those 3 words are counted too.
