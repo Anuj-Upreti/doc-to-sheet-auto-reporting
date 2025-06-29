@@ -91,5 +91,4 @@ Open an issue or submit a pull request—collaboration is welcome!
 ✍️ Author:
 
 Anuj Upreti
-
-- Helping writers and editors save time with automation.
+Helping writers and editors save time with automation.
