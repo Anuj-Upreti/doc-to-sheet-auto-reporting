@@ -19,6 +19,7 @@ This tool eliminates the hassle by automatically reading linked Google Docs, ide
 - Calculates the **word count** for each date section (including the date line).
 - Matches each date to the corresponding column in your Google Sheet.
 - Logs the word count next to the correct writer's name and under the relevant date.
+- Adds a taskbar menu to run the code from the doc screen.
 
 ---
 

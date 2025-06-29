@@ -1,3 +1,11 @@
+function onOpen() {
+  const ui = SpreadsheetApp.getUi();
+  ui.createMenu('✍️ Writer Tools')
+    .addItem('📝 Import Word Counts', 'importWordCountsForAllWriters')
+    .addToUi();
+}
+
+
 function importWordCountsForAllWriters() {
   const config = {
     sheetName: "google_sheet_name",
