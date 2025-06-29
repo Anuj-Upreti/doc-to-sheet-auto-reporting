@@ -88,6 +88,8 @@ Update startCell (e.g., "C2") to match your sheet layout.
 Have a feature suggestion or found an issue?
 Open an issue or submit a pull request—collaboration is welcome!
 
-✍️ Author 
+✍️ Author -
+
 Anuj Upreti
-Helping writers and editors save time with automation.
+
+- Helping writers and editors save time with automation.
